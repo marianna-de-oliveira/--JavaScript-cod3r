@@ -20,3 +20,4 @@ console.log(obj3.nome) // Mesa
 obj3.exec() // Exec...
 
 // sempre se acessa os membros de um objeto atraves de seu nome com uma notação ponto
+// https://acervolima.com/metodo-de-acessores-de-propriedade-javascript/
