@@ -10,3 +10,5 @@ function Pessoa(){
 // sem bind e sem a const self dá NaN
 
 new Pessoa
+
+//uma especie de contador de segundos 
