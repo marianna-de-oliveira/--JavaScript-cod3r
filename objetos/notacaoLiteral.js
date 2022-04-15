@@ -12,6 +12,7 @@ console.log(obj1, obj2)
 const nomeAttr = 'nota'
 const valorAttr = 7.87
 
+// criar o objeto vazio e depois atribuir algo pra ele de duas formas
 const obj3 = {}
 obj3[nomeAttr] = [valorAttr]
 console.log(obj3)

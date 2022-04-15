@@ -14,7 +14,3 @@ function calcularValor(mes, valor) {
 
 console.log(calcularValor(12, 100))
 
-
-// js sass ts react/angular banco de dados acessibilidade no html ~ 7-2-1 % 10 horas no seu dia 7 estudar codando lendo e codando por exemplo, 2 proximas 2 hoas das 10 fazer networking (linkedin, github, yt, se organizar, etx) 1 se posicionar como psofissioal de ti, criar um marketing e se vender
-
-//backend ~ interações nao visiveis, banco de dados
