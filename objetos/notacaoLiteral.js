@@ -19,3 +19,15 @@ console.log(obj3)
 
 const obj4 = { [nomeAttr]: [valorAttr] }
 console.log(obj4)
+
+
+const obj5 = {
+    funcao1: function (){ //antes
+
+    },
+    funcao2(){ // agora
+
+    }
+}
+
+console.log(obj5)

@@ -13,4 +13,3 @@ function calcularValor(mes, valor) {
 }
 
 console.log(calcularValor(12, 100))
-
